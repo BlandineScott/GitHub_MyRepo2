@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Workflow1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 14:11:01.482 -0600"
+			},
+		{
+				"handlerName": "on_workflow1",
+				"timestamp": "2023-12-07 14:11:01.545 -0600",
+				"message": " This is my workflow 1.",
+				"scriptName": "Workflow1.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_testme",
+				"timestamp": "2023-12-07 14:11:01.563 -0600",
+				"message": "TestMe",
+				"scriptName": "C:/Eggplant/GitHub_MyRepo1_HelperSuites/MySuite_Helper.suite/Scripts/HelperScript1.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.105\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-07 14:11:01 -0600\", Successes:\"1\", TestCase:\"Workflow1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 14:11:01.594 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:00 Workflow1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-07 14:11:01.632 -0600"
+			}
+	],
+	"createdTimestamp": "2023-12-07 14:11:01.486 -0600"
+}

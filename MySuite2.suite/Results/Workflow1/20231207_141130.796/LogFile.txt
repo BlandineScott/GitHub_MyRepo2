@@ -1,0 +1,5 @@
+﻿2023-12-07 14:11:30.801 -0600	START		Running Workflow1.script
+2023-12-07 14:11:30.843 -0600	Log		 This is my workflow 1.	1	on_workflow1	Workflow1.script
+2023-12-07 14:11:30.861 -0600	Log		This is a test. This is a helper handler from my Helper Suite.	2	on_testme	C:/Eggplant/GitHub_MyRepo1_HelperSuites/MySuite_Helper.suite/Scripts/HelperScript1.script
+2023-12-07 14:11:30.900 -0600	EndTestCase		(Duration:"0.094", Errors:"0", Exceptions:"0", StartTime:"2023-12-07 14:11:30 -0600", Successes:"1", TestCase:"Workflow1.script", Warnings:"0")
+2023-12-07 14:11:30.939 -0600	SUCCESS		Execution Time 0:00:00 Workflow1.script
